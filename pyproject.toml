@@ -18,7 +18,7 @@ repository = "https://github.com/realdanielbyrne/acc_sdk"
 name = "acc_sdk"
 version = "0.5.10"
 description = "An Unofficial Python Implementation of the Autodesk Construction Cloud API SDK"
-authors = ["Daniel Byrne realdanielbyrne@icloud.com"]
+authors = ["Daniel Byrne <realdanielbyrne@icloud.com>"]
 
 packages = [
 {include = "acc_sdk"},
